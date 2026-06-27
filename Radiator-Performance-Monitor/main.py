@@ -12,7 +12,7 @@ RPM_THRESHOLD = 2000
 while True:
 
     # Read the CSV file
-    may = pd.read_csv(r"C:\Users\HARINI\.vscode\Pos.csv")
+    may = pd.read_csv(r"/path/to/sample_data.csv")
 
     # Convert 'Date&Time' column to datetime if it's not already
     if may['Date&Time'].dtype == 'object':
