@@ -140,6 +140,13 @@ cd radiator-performance-monitor
 pip install -r requirements.txt
 ```
 
+### Run the Application
+
+```bash
+python main.py
+```
+
+---
 ---
 
 ## 📋 Sample Input
