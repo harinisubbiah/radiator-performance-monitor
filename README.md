@@ -147,7 +147,6 @@ python main.py
 ```
 
 ---
----
 
 ## 📋 Sample Input
 
