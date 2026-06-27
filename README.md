@@ -34,7 +34,7 @@ While the data is collected using a Raspberry Pi-based acquisition setup, the pr
 
 ---
 
-## 🖥️ Dashboard Preview
+## 🖥️ Output to be Seen
 
 ### 🌡️ Temperature Analysis
 
