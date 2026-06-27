@@ -203,11 +203,5 @@ This project is licensed under the MIT License.
 ## 👩‍💻 Authors
 
 **Harini S**
-
-B.Tech Electronics and Computer Science Engineering
-
-Vellore Institute of Technology, Chennai
-
 ---
 
-## ⭐ If you found this project useful, consider giving it a star!
