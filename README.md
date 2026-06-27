@@ -34,16 +34,29 @@ While the data is collected using a Raspberry Pi-based acquisition setup, the pr
 
 ---
 
-| Temperature Analysis |  RPM and Gear Analysis |
-|----------------------|--------------|
-| (<img width="753" height="513" alt="tempVStime" src="https://github.com/user-attachments/assets/7abc1753-e1db-4fbb-a910-731503a87f38" />
-) |(<img width="740" height="516" alt="RmpandGearVStime" src="https://github.com/user-attachments/assets/ac8b9975-7a01-4db0-bd1b-ded70c0f73cd" />
-) |
+## 🖥️ Dashboard Preview
 
-| Warning Status |
-|----------------|
-| (<img width="858" height="389" alt="warning" src="https://github.com/user-attachments/assets/f01e282c-4d0f-4675-8dd7-4163602d8626" />
-) |
+### 🌡️ Temperature Analysis
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7abc1753-e1db-4fbb-a910-731503a87f38" width="850">
+</p>
+
+---
+
+### ⚙️ RPM & Gear Analysis
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ac8b9975-7a01-4db0-bd1b-ded70c0f73cd" width="850">
+</p>
+
+---
+
+### 🚨 Warning Status
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f01e282c-4d0f-4675-8dd7-4163602d8626" width="900">
+</p>
 
 ---
 ---
