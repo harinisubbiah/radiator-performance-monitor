@@ -202,7 +202,6 @@ The dataset used by this application is generated using a Raspberry Pi-based dat
 This repository primarily focuses on the **software components** responsible for processing, analyzing, and visualizing the collected data.
 
 ---
-
 ## 🤝 Contributing
 1. Mirunalini A - https://github.com/miruanand 
 Contributions, suggestions, and improvements are welcome!
