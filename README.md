@@ -201,7 +201,6 @@ This project is licensed under the MIT License.
 ---
 
 ## 👩‍💻 Authors
-
-Harini S
+**Harini S**
 ---
 
