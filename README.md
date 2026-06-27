@@ -153,26 +153,13 @@ python main.py
 
 The application expects a CSV file containing the following columns:
 
-```text
-DateTime
-Water Temperature
-Oil Temperature
-RPM
-Gear Position
-```
-
-Example:
-
 ```csv
-Water Temperature (Â°C)	Oil Temperature (Â°C)	RPM	Gear Position	Warning Status	Date&Time
-51	48.7	1002.2	0	0	05/21/24  08:25:25
-53.2	52.8	1006	0	0	05/21/24  08:25:48
-54.3	53.9	1033.1	0	0	05/21/24  08:26:11
-55	54.3	999.2	0	0	05/21/24  08:26:34
-
+Water Temperature (°C),Oil Temperature (°C),RPM,Gear Position,Warning Status,Date&Time
+51,48.7,1002.2,0,0,05/21/24 08:25:25
+53.2,52.8,1006,0,0,05/21/24 08:25:48
+54.3,53.9,1033.1,0,0,05/21/24 08:26:11
+55,54.3,999.2,0,0,05/21/24 08:26:34
 ```
-
----
 
 ## 📈 Results
 
