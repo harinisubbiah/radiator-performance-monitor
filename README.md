@@ -191,7 +191,7 @@ This repository primarily focuses on the **software components** responsible for
 
 ---
 ## 🤝 Contributors
-1. Mirunalini A - https://github.com/miruanand 
+- Mirunalini A - [https://github.com/miruanand]
 ---
 
 ## 📜 License
