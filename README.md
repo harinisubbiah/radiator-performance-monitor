@@ -164,10 +164,12 @@ Gear Position
 Example:
 
 ```csv
-DateTime,WaterTemp,OilTemp,RPM,Gear
-2024-11-12 10:00,84,91,1600,2
-2024-11-12 10:01,85,93,1750,2
-2024-11-12 10:02,89,95,1900,3
+Water Temperature (Â°C)	Oil Temperature (Â°C)	RPM	Gear Position	Warning Status	Date&Time
+51	48.7	1002.2	0	0	05/21/24  08:25:25
+53.2	52.8	1006	0	0	05/21/24  08:25:48
+54.3	53.9	1033.1	0	0	05/21/24  08:26:11
+55	54.3	999.2	0	0	05/21/24  08:26:34
+
 ```
 
 ---
