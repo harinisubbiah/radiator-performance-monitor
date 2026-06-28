@@ -1,10 +1,10 @@
-# 🚗 Radiator Performance Monitoring & Analytics System
+# Radiator Performance Monitoring & Analytics System
 
 > A Python-based real-time monitoring and analytics system that processes sensor-generated data to visualize radiator performance, detect abnormal operating conditions, and provide actionable insights through dynamic dashboards.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project is a **real-time data analytics and visualization application** developed in Python to monitor radiator performance using sensor-generated operational data.
 
@@ -14,54 +14,27 @@ While the data is collected using a Raspberry Pi-based acquisition setup, the pr
 
 ---
 
-## ✨ Features
+## Features
 
-- 📊 Real-time performance monitoring
-- 🌡️ Water & Oil temperature analysis
-- ⚙️ RPM trend visualization
-- 🚘 Gear position monitoring
-- 🚨 Threshold-based anomaly detection
-- 📈 Automatic warning generation
-- 🔄 Continuous dashboard refresh
-- 📂 CSV-based data processing
-- 🧹 Modular and reusable Python code
+- Real-time performance monitoring
+- Water & Oil temperature analysis
+- RPM trend visualization
+- Gear position monitoring
+- Threshold-based anomaly detection
+- Automatic warning generation
+- Continuous dashboard refresh
+- CSV-based data processing
+- Modular and reusable Python code
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 <img width="976" height="732" alt="image" src="https://github.com/user-attachments/assets/72b31698-f8c8-423f-bd2d-1ad2a7e9ba82" />
 
 
 ---
 
-## 🖥️ Output to be Seen
-
-### 🌡️ Temperature Analysis
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7abc1753-e1db-4fbb-a910-731503a87f38" width="850">
-</p>
-
----
-
-### ⚙️ RPM & Gear Analysis
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ac8b9975-7a01-4db0-bd1b-ded70c0f73cd" width="850">
-</p>
-
----
-
-### 🚨 Warning Status
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f01e282c-4d0f-4675-8dd7-4163602d8626" width="900">
-</p>
-
----
----
-
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |----------|--------------|
@@ -73,7 +46,7 @@ While the data is collected using a Raspberry Pi-based acquisition setup, the pr
 
 ---
 
-## 📈 Data Processing Workflow
+## Data Processing Workflow
 
 The application performs the following tasks:
 
@@ -88,19 +61,19 @@ The application performs the following tasks:
 
 ---
 
-## 📊 Parameters Monitored
+## Parameters Monitored
 
 | Parameter | Description |
 |-----------|-------------|
-| 🌡️ Water Temperature | Cooling system temperature |
-| 🔥 Oil Temperature | Lubrication system temperature |
-| ⚙️ RPM | Engine rotational speed |
-| 🚘 Gear Position | Current operating gear |
-| 🚨 Warning Status | Indicates abnormal conditions |
+| Water Temperature | Cooling system temperature |
+| Oil Temperature | Lubrication system temperature |
+| RPM | Engine rotational speed |
+| Gear Position | Current operating gear |
+| Warning Status | Indicates abnormal conditions |
 
 ---
 
-## 🚨 Anomaly Detection
+## Anomaly Detection
 
 The application continuously evaluates system health using configurable thresholds.
 
@@ -113,24 +86,6 @@ Current thresholds:
 | RPM | 2000 |
 
 If any threshold is exceeded, the dashboard automatically highlights the condition for quick identification.
-
----
-
-## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/radiator-performance-monitor.git
-```
-
----
-
-### Navigate to the Project
-
-```bash
-cd radiator-performance-monitor
-```
 
 ---
 
@@ -148,7 +103,7 @@ python main.py
 
 ---
 
-## 📋 Sample Input
+## Sample Input
 
 The application expects a CSV file containing the following columns:
 
@@ -160,7 +115,7 @@ Water Temperature (°C),Oil Temperature (°C),RPM,Gear Position,Warning Status,D
 55,54.3,999.2,0,0,05/21/24 08:26:34
 ```
 
-## 📈 Results
+## Results
 
 The software provides:
 
@@ -172,35 +127,25 @@ The software provides:
 
 ---
 
-## 🔮 Future Improvements
 
-- 🌐 Web-based dashboard using Flask or Streamlit
-- ☁️ Cloud database integration
-- 📱 Mobile monitoring interface
-- 🤖 Machine Learning-based predictive maintenance
-- 📊 Historical trend analytics
-- 📡 MQTT/IoT integration
-
----
-
-## 🔧 Hardware (Data Collection)
+## Hardware (Data Collection)
 
 The dataset used by this application is generated using a Raspberry Pi-based data acquisition setup with temperature and operational sensors.
 
 This repository primarily focuses on the **software components** responsible for processing, analyzing, and visualizing the collected data.
 
 ---
-## 🤝 Contributors
+## Contributors
 - Mirunalini A - [https://github.com/miruanand]
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👩‍💻 Authors
+## Authors
 **Harini S**
 ---
 
